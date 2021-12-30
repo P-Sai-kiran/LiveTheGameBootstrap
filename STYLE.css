@@ -1,0 +1,57 @@
+body{
+  background-color: black !important;
+  margin-top: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  
+}
+
+
+li a{
+  text-decoration: none;
+  color: white;
+  text-align:right;
+  
+}
+h3{
+  text-align: center;
+}
+li a:hover{
+  color: red;
+}
+.sidebar{
+  margin-top: 20px;
+  color: white;
+}
+#gamebar{
+  margin-top: 20px;
+  color: white;
+}
+#gamebar1{
+  margin-top: 20px;
+  color: white;
+}
+#reviews{
+  margin-top: 20px;
+  color: white;
+}
+.social h3{
+  text-align: left;
+}
+p{
+  text-align: center;
+}
+
+.social li{display: inline;}
+#foot{
+   
+  background: linear-gradient(to top, #778899 -23%, #000000 100%);
+
+  color: white;
+  padding:0;
+  margin-top: 20px;
+}
+
